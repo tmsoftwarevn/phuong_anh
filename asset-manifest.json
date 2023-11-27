@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.119d4969.css",
+    "main.js": "/static/js/main.9de8123d.js",
+    "static/js/787.174a0e6e.chunk.js": "/static/js/787.174a0e6e.chunk.js",
+    "static/media/anh3.png": "/static/media/anh3.9c3e15109cff32921b7a.png",
+    "static/media/banner.png": "/static/media/banner.6ca60d5215b7df396312.png",
+    "static/media/VongQuay-PhuongAnh-02.png": "/static/media/VongQuay-PhuongAnh-02.0ba7665f6e8caa696217.png",
+    "static/media/anh2.png": "/static/media/anh2.9d046256563bdf72c499.png",
+    "static/media/bg-ketqua.jpg": "/static/media/bg-ketqua.80a830c37558f4f7ae51.jpg",
+    "static/media/mui ten.png": "/static/media/mui ten.c93b04aab04ec4e4e070.png",
+    "index.html": "/index.html",
+    "main.119d4969.css.map": "/static/css/main.119d4969.css.map",
+    "main.9de8123d.js.map": "/static/js/main.9de8123d.js.map",
+    "787.174a0e6e.chunk.js.map": "/static/js/787.174a0e6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119d4969.css",
+    "static/js/main.9de8123d.js"
+  ]
+}
